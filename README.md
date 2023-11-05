@@ -1,7 +1,7 @@
+🛒 PROJECT "Bazar"
 
+➱ # WDP Projekt Zespołowy
 
-
-# WDP Projekt Zespołowy
 
 ## Inicjacja projektu
 
@@ -35,3 +35,17 @@ dla plików, które zostały wybrane za pomocą `git add` i mają być zapisane 
 @wierza
 @Justek9
 @Viktoryia-Vysotskaya
+
+
+👀 Screenshot:
+
+📸 ↴︎
+
+![Alt Text](/public/images/screenshots/1.Bazar.png)
+
+
+✉ Contact:
+
+➱ radevich.vika2014@gmail.com
+
+➱ https://www.linkedin.com/in/viktoryia-vysotskaya
