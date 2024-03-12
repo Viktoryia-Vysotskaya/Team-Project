@@ -2,6 +2,10 @@
 
 ➱ # WDP Projekt Zespołowy
 
+💻 Live demo: https://team-project-xi.vercel.app
+
+(!) Free hosting so might take a while to load for first time.
+
 
 ## Inicjacja projektu
 
